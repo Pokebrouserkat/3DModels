@@ -1,2 +1,3 @@
 # 3DModels
-3D models of things
+
+This is where I plan to store incomplete Blender projects. IDK if that's a normal use of GitHub
